@@ -1,4 +1,4 @@
-# Build TCP Chat with GO (Golang)
+# Build TCP Chat with GO (Golang) 🚀
 
 running with your netcat localhost on `port`: 
 ```

@@ -4,6 +4,14 @@ running with your netcat localhost on `port`:
 ```
 go run cmd/main.go
 ```
+connect to localhost (netcat):
+```
+nc localhost 9090
+```
+connect to localhost (telnet): 
+```
+telnet localhost 9090
+```
 
 command line for your `client`:
 - `/nick <name>` - get a name, otherwise user will stay anonymous.
